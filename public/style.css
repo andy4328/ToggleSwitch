@@ -33,7 +33,7 @@ body{
     transition: all 300ms ease-in-out;
 }
 .toggle-btn.active{
-    background: #21ecf3;
+    background: #21f34f;
    /* box-shadow: 0 0 10px #21ecf3, 0 0 40px #21ecf3, 0 0 80px #21ecf3; */
     transition-delay:0.5s;
 }
